@@ -51,12 +51,12 @@
         </configuration>
       </plugin>
     </plugins>
-	<distributionManagement>
+  </build>
+  	<distributionManagement>
        <snapshotRepository>
          <id>deployment</id>
 		 <name>Snapshot</name>
          <url>http://3.131.128.202:8081/repository/maven-snapshots/</url>
        </snapshotRepository>
     </distributionManagement>
-  </build>
 </project>
