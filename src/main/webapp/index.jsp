@@ -7,7 +7,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body bgcolor="#FFC300">
+    <body bgcolor="#0C906F">
         <h1><font color="#900C3F">Welcome to KIG Training</h1>
     </body>
 </html>
